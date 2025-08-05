@@ -55,7 +55,7 @@ fun AccountSelectionScreen() {
             modifier = Modifier
                 .size(120.dp)
                 .padding(8.dp)
-                .clip(RoundedCornerShape(16.dp))
+                .clip(RoundedCornerShape(20.dp))
         )
 
         Spacer(modifier = Modifier.height(20.dp))
